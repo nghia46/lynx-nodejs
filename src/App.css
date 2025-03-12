@@ -7,6 +7,6 @@ text{
 }
 .container{
   border: 1px solid #fff;
-  margin: 100px;
-  height: 100px;
+  display: flex;
+  flex-direction: column;
 }
