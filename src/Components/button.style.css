@@ -1,0 +1,28 @@
+.button-container {
+  max-width: 10rem;
+  max-height: 3rem;
+  border: 1px solid;
+  border-radius: 4px;
+  padding: 10px 20px 10px 20px;
+  background-color: #ff5e42;
+  align-items: center;
+}
+.primary {
+  background-color: #007bff;
+  color: white;
+}
+
+.secondary {
+  background-color: #6c757d;
+  color: white;
+}
+
+.success {
+  background-color: #28a745;
+  color: white;
+}
+
+.danger {
+  background-color: #dc3545;
+  color: white;
+}

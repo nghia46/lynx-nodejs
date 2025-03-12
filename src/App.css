@@ -1,0 +1,12 @@
+:root {
+  background-color: #000;
+  --color-text: #fff;
+}
+text{
+  color: var(--color-text);
+}
+.container{
+  border: 1px solid #fff;
+  margin: 100px;
+  height: 100px;
+}
